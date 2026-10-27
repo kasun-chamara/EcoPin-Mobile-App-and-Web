@@ -1,0 +1,94 @@
+{
+  "brand": "EcoPin",
+  "cleanSL": "Clean Sri Lanka",
+  "welcome": {
+    "h1a": "See it. Pin it.",
+    "h1b": "We'll clean it.",
+    "sub": "දකින්න. පින් කරන්න. අපි පිරිසිදු කරමු.",
+    "c1t": "Pin it in one tap", "c1d": "Photo + GPS to your council",
+    "c2t": "Track the truck live", "c2d": "Time and distance to you",
+    "c3t": "Cleaned together", "c3d": "Notified when it's cleared",
+    "spots": "{{count}} spots", "cleanedToday": "cleaned today",
+    "start": "Get started",
+    "foot1": "Free for everyone · ", "foot2": "Report without signing up"
+  },
+  "signin": {
+    "eyebrow": "Sign in · 20 seconds",
+    "h2a": "Join the clean-up.", "h2b": "Sri Lanka, together.",
+    "h2sub": "එක්වන්න. එකට ශ්‍රී ලංකාව පිරිසිදු කරමු.",
+    "label": "Mobile number",
+    "hint": "We'll text a 6-digit code. Your number is never shown publicly.",
+    "otp": "Send OTP", "or": "or",
+    "anon": "Report anonymously",
+    "staff": "Driver / officer? Sign in with staff ID",
+    "demoCitizen": "Try demo as citizen", "demoDriver": "Try demo as driver"
+  },
+  "otp": {
+    "title": "Enter the code",
+    "sent": "We sent a 6-digit code to {{phone}}",
+    "verify": "Verify", "resend": "Resend code", "wrong": "That code didn't work. Try again."
+  },
+  "nav": { "map": "Map", "nearby": "Nearby", "pin": "Pin", "mypins": "My pins", "profile": "Profile", "jobs": "Jobs", "history": "History" },
+  "home": {
+    "greeting": "Ayubowan, {{name}}",
+    "here": "You're here", "gps": "GPS ±{{m}} m",
+    "pinHere": "Pin here",
+    "today": "Today in {{area}}", "seeImpact": "See impact",
+    "cleaned": "Cleaned", "waiting": "Waiting", "trucks": "Trucks out",
+    "already": "Already pinned {{m}} m away", "alreadySub": "{{n}} people · {{ago}} ago · same pile?",
+    "meToo": "Me too +1"
+  },
+  "filters": { "waiting": "Waiting", "truck": "Truck coming", "cleaned": "Cleaned" },
+  "report": {
+    "title": "Pin a garbage spot", "subtitle": "Takes about 30 seconds",
+    "step1": "1 · Photo", "step2": "2 · Place", "step3": "3 · Details",
+    "takePhoto": "Take a photo", "retake": "Retake", "addPhoto": "Add photo",
+    "photoNote": "Up to 3 photos. Faces are blurred.",
+    "locating": "Finding your location…", "exact": "Exact",
+    "next": "Next · Add details",
+    "detailsTitle": "Step 3 · Details", "photoAdded": "photo added",
+    "wasteQ": "What kind of waste?", "sizeQ": "How much is there?",
+    "note": "Anything else?", "optional": "(optional)", "notePh": "e.g. Next to the bus halt, near the canal",
+    "goesTo": "This pin goes straight to", "council": "Your local council",
+    "hideName": "Hide my name from the council",
+    "submit": "Submit pin", "needPhoto": "Take a photo first",
+    "thanks": "Thank you! Your pin was sent."
+  },
+  "waste": { "household": "Household", "plastic": "Plastic & polythene", "construction": "Construction", "garden": "Garden", "ewaste": "E-waste", "hazardous": "Hazardous" },
+  "size": { "few_bags": "A few bags", "pile": "A pile", "truckload": "Truckload" },
+  "status": {
+    "reported": "Pinned by you", "verified": "Verified by the council", "assigned": "Truck assigned",
+    "on_the_way": "Truck on the way", "collected": "Collected", "rejected": "Not accepted"
+  },
+  "mypins": {
+    "title": "My pins", "cleanedOf": "{{a}} of {{b}} cleaned",
+    "all": "All", "active": "Active", "cleaned": "Cleaned",
+    "truck": "Truck {{km}} km away · ~{{min}} min",
+    "earlier": "Earlier", "cleanedIn": "cleaned in {{t}}", "empty": "No pins yet. Tap Pin to report a spot."
+  },
+  "collected": {
+    "title": "We cleaned it together!", "titleSi": "අපි එකට පිරිසිදු කළා!",
+    "body": "Your pin on {{place}} was collected. Thank you for keeping Sri Lanka clean.",
+    "before": "Before", "after": "After", "timeToClean": "Time to clean", "points": "+{{n}} points", "added": "Added to you",
+    "rate": "How did the team do?", "rateHint": "Tap a star to rate",
+    "share": "Share", "another": "Pin another spot"
+  },
+  "impact": {
+    "title": "Your impact", "level": "LEVEL {{n}}", "levelName": "Clean Hero",
+    "points": "/ {{n}} points", "next": "Next: {{name}}",
+    "pinned": "pinned", "cleaned": "cleaned", "streak": "streak", "days": "{{n}} days",
+    "badges": "Badges", "seeAll": "{{a}} of {{b}} · See all",
+    "board": "{{area}} · this month", "boardSub": "Top 3 get thanked",
+    "signOut": "Sign out"
+  },
+  "driver": {
+    "onDuty": "On duty", "collectedToday": "collected today",
+    "next": "NEXT · STOP {{n}}", "waitingFor": "Waiting {{t}}",
+    "start": "Start route", "upNext": "Up next · best order", "noJobs": "No jobs right now.",
+    "arrive": "I'm here · Mark collected",
+    "eta": "{{min}} min", "km": "{{km}} km",
+    "completeTitle": "Mark collected", "afterPhoto": "Take an after photo", "done": "Done · Notify citizen",
+    "history": "Today's history", "profile": "Driver profile"
+  },
+  "nearby": { "title": "Nearby spots", "away": "{{m}} m away" }
+}
